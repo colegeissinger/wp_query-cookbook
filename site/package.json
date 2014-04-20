@@ -1,0 +1,14 @@
+{
+    "name": "WP_Query Cookbook",
+    "version": "0.0.1",
+    "description": "The complete crash course to mastering WP_Query in WordPress.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/colegeissinger/wp_query-cookbook.git"
+    },
+    "author": "Cole Geissinger <colegeissinger@gmail.com>",
+    "license": "GPL",
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {}
+}
