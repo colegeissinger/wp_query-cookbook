@@ -1,9 +1,9 @@
 # Summary
 
 * [Preface](Preface.md)
-* Why WP_Query
-    * What is query_posts()
-    * What is get_posts()
+* [Why WP_Query](chapter-1/Why WP_Query.md)
+    * [What is query_posts()](chapter-1/What is query_posts()
+    * [What is get_posts()](chapter-1/What is get_posts()
     * What is pre_get_posts()
     * What is WP_Query()
     * Comparing the Options
@@ -21,7 +21,7 @@
 * Expert Queries
     * The Query Object
     * Running Multiple Queries
-    * wp_reset_postdata() vs. wp_reset_query()
+    * [wp_reset_postdata() vs. wp_reset_query()](chapter-6/wp_reset_postdata() vs. wp_reset_query().md)
 * Query Master
     * Securing our Queries
     * Building with Performance
